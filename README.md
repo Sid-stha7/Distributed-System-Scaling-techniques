@@ -1,7 +1,7 @@
 # Distributed-System-Scaling-techniques
 
 
-## Tail at Scale Mitigation: Component-Level Engineering
+## Component-Level Engineering
 
 Before employing higher-level masking techniques, systems must utilize precise, real-time engineering strategies to minimize the root causes of latency variability at the component level.
 
